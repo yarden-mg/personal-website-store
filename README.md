@@ -4,5 +4,5 @@ hi i worked like 2 hours to find the colors i want and the stye and i decided it
 this is the ruler:  
 <img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/9191dca3-f62d-457b-9910-2967464b83f3" />
 i had a lot of troubles during this part of the project. i wanted to put a picture in the background of the main page it took so long and eventually i got it and than i uploaded a photo that i took at the beach and it was beautiful!! it was worth everything. after i started the purchase page but i struggled a lot with the ruler up couse i wanted it to be in the middle and it was nightmare i worked on it roughly 2 hours with a little break of 10 min couse i really needed it and thats it. probably tomorrow i will continue the forms to the purchase and i will give a little advice too.
-<img width="2554" height="1252" alt="image" src="https://github.com/user-attachments/assets/088ce905-059c-4688-bc24-bf176160998b" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/088ce905-059c-4688-bc24-bf176160998b" />
 
